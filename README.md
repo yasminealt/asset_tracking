@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Asset Tracking Project
 
 ## Overview
@@ -37,3 +38,6 @@ This file displays the list of assets in an HTML table. It includes the config.p
 ## Usage Guidelines
 - To add a new asset, send a POST request to `add_asset.php` with the asset details.
 - To view all assets, navigate to `index.php` in your web browser.
+=======
+# asset_tracking
+>>>>>>> e5d087ca123f98b78422f6fe1d8562d791cf494d
